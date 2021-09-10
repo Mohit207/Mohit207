@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mohit207
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
